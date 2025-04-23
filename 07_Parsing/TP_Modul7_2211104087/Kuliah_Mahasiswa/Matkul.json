@@ -1,0 +1,33 @@
+{
+    "courses": [
+      {
+        "code": "HIO",
+        "name": "Design Thinking"
+      },
+      {
+        "code": "RDP",
+        "name": "Kontruksi Perangkat Lunak"
+      },
+      {
+        "code": "HIO",
+        "name": "MEKPL"
+      },
+      {
+        "code": "AAH",
+        "name": "Pengujian Perangkat Lunak"
+      },
+      {
+        "code": "RDP",
+        "name": "Kecerdasan Buatan"
+      },
+      {
+        "code": "ADI",
+        "name": "Proyek Tingkat 2"
+      },
+      {
+        "code": "KMN",
+        "name": "Proses Perangkat Lunak"
+      }
+    ]
+  }
+  
