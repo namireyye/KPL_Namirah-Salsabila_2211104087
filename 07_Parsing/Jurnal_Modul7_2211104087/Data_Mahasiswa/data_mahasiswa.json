@@ -1,0 +1,16 @@
+{
+    "firstName": "Namirah",
+    "lastName": "Salsabila",
+    "gender": "female",
+    "age": 22,
+    "address": {
+      "streetAddress": "Jalan Jendral Sudirman",
+      "city": "Serang",
+      "state": "Banten"
+    },
+    "courses": [
+      { "code": "HIO", "name": "Design Thinking" },
+      { "code": "RDP", "name": "Kontruksi Perangkat Lunak" }
+    ]
+  }
+  
