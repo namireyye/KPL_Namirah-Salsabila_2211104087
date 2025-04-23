@@ -1,0 +1,23 @@
+{
+    "glossary": {
+      "title": "Advanced Glossary",
+      "GlossDiv": {
+        "title": "T",
+        "GlossList": {
+          "GlossEntry": {
+            "ID": "XML",
+            "SortAs": "XML",
+            "GlossTerm": "Extensible Markup Language",
+            "Acronym": "XML",
+            "Abbrev": "W3C Recommendation",
+            "GlossDef": {
+              "para": "A markup language that defines rules for encoding documents in a format that is both human-readable and machine-readable.",
+              "GlossSeeAlso": ["HTML", "XHTML"]
+            },
+            "GlossSee": "markup"
+          }
+        }
+      }
+    }
+  }
+  
