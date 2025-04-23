@@ -1,0 +1,41 @@
+{
+    "members": [
+      {
+        "firstName": "Namirah",
+        "lastName": "Salsabila",
+        "gender": "female",
+        "age": 22,
+        "nim": "2211104087"
+      },
+      {
+        "firstName": "Agam",
+        "lastName": "Nasywaan",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104085"
+      },
+      {
+        "firstName": "Chairul",
+        "lastName": "Anam",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104072"
+      },
+      {
+        "firstName": "Imam",
+        "lastName": "AlAmin",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104077"
+      },
+      {
+        "firstName": "Chayla",
+        "lastName": "Ravanelly",
+        "gender": "female",
+        "age": 21,
+        "nim": "2211104082"
+      }
+
+    ]
+  }
+  
